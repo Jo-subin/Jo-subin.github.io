@@ -2,10 +2,10 @@
 title: subin
 description: welcome to my blog!
 url: https://Jo-subin.github.io
-avatar: /avatar.jpeg
+avatar: /pingping.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.jpg
 
 # Gems
 plugins:
