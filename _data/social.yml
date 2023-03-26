@@ -3,12 +3,13 @@
   icon: fas fa-envelope
 
 - title: Instagram
-  url: mailto://jsb7212@gmail.com
+  url: https://instagram.com/bini_bin12?igshid=ZDdkNTZiNTM=
   icon: fab fa-instagram
 
 #- title: Twitter
 #  url: https://twitter.com/vszhub
 #  icon: fab fa-twitter
+
 - title: GitHub
   url: https://github.com/Jo-subin/Jo-subin.github.io
   icon: fab fa-github
