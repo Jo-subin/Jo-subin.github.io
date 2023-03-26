@@ -3,6 +3,7 @@ title: subin
 description: welcome to my blog!
 url: https://Jo-subin.github.io
 avatar: /pingping.jpg
+location: South Korea
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpg
@@ -54,6 +55,6 @@ google_analytics: G-RQPTSCT81B
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Jo-subin
+  url: https://github.com/Jo-subin/
+  email: jsb7212b@naver.com
