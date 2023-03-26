@@ -1,6 +1,11 @@
 - title: Email
   url: mailto://jsb7212@gmail.com
   icon: fas fa-envelope
+
+- title: Instagram
+  url: mailto://jsb7212@gmail.com
+  icon: fab fa-instagram
+
 #- title: Twitter
 #  url: https://twitter.com/vszhub
 #  icon: fab fa-twitter
