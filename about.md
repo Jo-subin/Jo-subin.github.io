@@ -9,4 +9,5 @@ title: About
 
 저에 대해 더 궁금하시면 [Jo-subin](https://github.com/Jo-subin/dongaoss)로 오세요! 
 
+-----
 
